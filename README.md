@@ -105,11 +105,11 @@ The project provides stakeholders with a centralized view of key business metric
 
 ### Executive Intelligence Dashboard
 
-![Executive Dashboard](images/dashboard1_overview.png)
+![Executive Dashboard](dashboard1_overview.png)
 
 ### Product Intelligence Dashboard
 
-![Product Intelligence Dashboard](images/dashboard2_product_intelligence.png)
+![Product Intelligence Dashboard](dashboard2_product_intelligence.png)
 
 ---
 
